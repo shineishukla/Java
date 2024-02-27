@@ -8,4 +8,6 @@ This repository is dedicated to practicing Java programming concepts and enhanci
 4. Algorithms: Java implementations of algorithmic concepts and problem-solving exercises.
 5. Java Applications: Small projects showcasing the application of Java in real-world scenarios.
 
+[Notes](https://docs.google.com/document/d/1MUS-JiyZ81YtM7-U0xyKjSSIqzl1Hh8tIn_WQFsM8Qk/edit?usp=sharing)
+
 ## Learning from GFG Course [Programming Language Foundation Builder](https://www.geeksforgeeks.org/courses/programming-language-foundation-builder)
